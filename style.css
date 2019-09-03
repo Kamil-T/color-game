@@ -1,11 +1,15 @@
 body {
   background-color: #232323;
 }
-span {
-  color: white;
-}
+
 h1 {
   color: white;
+}
+
+#stripe {
+  background: white;
+  height: 30px;
+  text-align: center;
 }
 
 #container {
@@ -20,6 +24,5 @@ h1 {
   display: flex;
   flex-basis: 30%;
   padding-bottom: 30%;
-  background: purple;
   margin: 1.66%;
 }
