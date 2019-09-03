@@ -1,7 +1,9 @@
 body {
   background-color: #232323;
 }
-
+span {
+  color: white;
+}
 h1 {
   color: white;
 }
